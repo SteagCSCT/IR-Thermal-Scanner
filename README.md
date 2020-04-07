@@ -4,8 +4,8 @@ Coronavirus disease (COVID-19) is an infectious disease caused by a new virus. T
 
 Infrared non-contact temperature measurement, reduce the risk of cross-infection. Efficient: the detection time is less than 1 second.  It is also limited by the fact that the thermal imager measures the skin temperature and not the core body temperature. 
 
-### Problem Statement: Demands and Shortage of non-contacting Infrared thermometer for the COVID-19. 
-### Solution: Build and Distribute non-contacting Infrared thermometer and the building guides will help to solve the problem. 
+* **Problem Statement** : Demands and Shortage of non-contacting Infrared thermometer for the COVID-19. 
+* **Solution** : Build and Distribute non-contacting Infrared thermometer and the building guides will help to solve the problem. 
 
 
 
